@@ -1,0 +1,1 @@
+Este é um projeto base para criação de outros projetos com o next.js.
